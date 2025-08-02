@@ -1,0 +1,1 @@
+Here is a toy webpage written using Vite + React. Its purpose is to generate a button at different random positions on the page and to keep track of the time needed to reach it and click on it.
